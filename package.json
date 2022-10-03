@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "axios": "^0.27.2"
+  },
+  "name": "currency_awesome",
+  "version": "1.0.0",
+  "description": "A simple api for querying currency quotes",
+  "main": "./src/index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/allanpereira99/currency_awesome.git"
+  },
+  "keywords": [
+    "currency",
+    "coverter"
+  ],
+  "author": "Allan Pereira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/allanpereira99/currency_awesome/issues"
+  },
+  "homepage": "https://github.com/allanpereira99/currency_awesome#readme"
+}
