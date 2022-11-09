@@ -1,3 +1,6 @@
+// SPDX-License-Identifier: MIT
+// Copyright (c) 2022 Allan Pereira <https://github.com/allanpereira99>
+
 import 'package:awesomeapi/repositorie/awesomeapi_interface.dart';
 
 class Currency {
